@@ -34,7 +34,7 @@ spam4.on('ready', () => {//Toxic Codes
 const prefix = "1";
 
 client.on("ready", () => {
-let channel = client.channels.get("529621058043772940")
+let channel = client.channels.get("529621317989826560")
 setInterval(function() {
 channel.send(`a7med here fucker >i will fuck all`);
 }, 999)
@@ -65,7 +65,7 @@ client.login(process.env.BOT_TOKEN);
 
 
 bot.on("ready", () => {
-let channel = bot.channels.get("529621058043772940")
+let channel = bot.channels.get("529621317989826560")
 setInterval(function() {
 channel.send(`a7med here fucker >i will fuck all`);
 }, 999)
@@ -99,7 +99,7 @@ bot.login(process.env.BOT_TOKEN2);
 
 
 spam2.on("ready", () => {
-let channel = spam2.channels.get("5529621058043772940")
+let channel = spam2.channels.get("529621317989826560")
 setInterval(function() {
 channel.send(`a7med here fucker >i will fuck all`);
 }, 999)
@@ -130,7 +130,7 @@ spam2.login(process.env.BOT_TOKEN3);
 
 
 spam4.on("ready", () => {
-let channel = spam4.channels.get("529621058043772940")
+let channel = spam4.channels.get("529621317989826560")
 setInterval(function() {
 channel.send(`a7med here fucker >i will fuck all`);
 }, 999)
